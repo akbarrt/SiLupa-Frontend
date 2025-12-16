@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="resources/dashboard.png" alt="Banner" width="80%" />
+</p>
+<p align="center">
+  React • Vite • TypeScript • Tailwind CSS • Radix UI • Recharts
+</p>
+
 ## Silupa Harvest & Distribution Dashboard
 
 An interactive React dashboard for managing agricultural harvests, stock inventory, storage capacity, and distribution flows. The app is built with Vite, TypeScript, Tailwind CSS, Radix UI primitives, and Recharts.
